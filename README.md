@@ -17,16 +17,16 @@ I have learned git VCS using BitBucket bit by bit during development processes o
 Normal Text (Comparison)
 
 #Emphasis
-*Italic* Star
-**Bold** Double Star
-_Italic_ Underscore
-__Bold__ Double Underscore
-*Italic __Bold__* (Nested Test 1)
-_Italic **Bold**_ (Nested Test 2)
-**Bold _Italic_** (Nested Test 3)
-__Bold *Italic*__ (Nested Test 4)
-*Italic **Bold*** (Nested Test 5)
-_Italic __Bold___ (Nested Test 6)
-**Bold *Italic*** (Nested Test 7)
-__Bold _Italic___ (Nested Test 8)
----Strikethrough---
+* *Italic* Star
+* **Bold** Double Star
+* _Italic_ Underscore
+* __Bold__ Double Underscore
+* *Italic __Bold__* (Nested Test 1)
+* _Italic **Bold**_ (Nested Test 2)
+* **Bold _Italic_** (Nested Test 3)
+* __Bold *Italic*__ (Nested Test 4)
+* *Italic **Bold*** (Nested Test 5)
+* _Italic __Bold___ (Nested Test 6)
+* **Bold *Italic*** (Nested Test 7)
+* __Bold _Italic___ (Nested Test 8)
+* ---Strikethrough---
