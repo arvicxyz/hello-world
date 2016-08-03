@@ -30,3 +30,25 @@ Normal Text (Comparison)
 * **Bold *Italic*** (Nested Test 7 \*\*Bold \*Italic\*\*\*)
 * __Bold _Italic___ (Nested Test 8 \_\_Bold \_Italic\_\_\_)
 * ~~Strikethrough~~
+
+#Lists
+
+#Links
+
+#Images
+
+#Quotes
+
+#Code
+
+#Task Lists
+
+#Tables
+
+#Referencing
+
+#Mentioning
+
+#Emojis
+
+#Others
