@@ -115,6 +115,16 @@ Normal Text (Comparison)
 - instagram.com
 
 #Images
+###Xamarin
+![Xamarin Logo](https://www.xamarin.com/content/images/pages/branding/assets/xamarin-logo.png)
+###Android
+![Android Logo](http://www.logospike.com/wp-content/uploads/2015/10/Android_Logo_04.png)
+###iOS
+![iOS Logo](http://itrex.co.uk/img/partners/ios.png)
+###MonoGame
+![MonoGame Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/2000px-MonoGame_Logo.svg.png)
+###Unity
+![Unity Logo](http://www.socialcubix.com/wp-content/uploads/portfolio/derby/unity-logo.png)
 
 #Quotes
 
