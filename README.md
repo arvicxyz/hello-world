@@ -102,17 +102,17 @@ Normal Text (Comparison)
 
 #Links
 ###Social Media
-[Amir on Facebook](https://www.facebook.com/amirfahd72)
-[Amir on Twitter](https://twitter.com/amirfahd72)
-[Amir on Instagram](https://www.instagram.com/amirfahd72/)
-[Amir on Google+](https://plus.google.com/u/0/+AmirFahdHadjiUsop)
-[Amir on YouTube](https://www.youtube.com/channel/UCqN11i1oj_30KpMfYpgI0HQ)
-[Amir on LinkedIn](https://ph.linkedin.com/in/amir-fahd-hadji-usop-0a8b5499)
+- [Amir on Facebook](https://www.facebook.com/amirfahd72)
+- [Amir on Twitter](https://twitter.com/amirfahd72)
+- [Amir on Instagram](https://www.instagram.com/amirfahd72/)
+- [Amir on Google+](https://plus.google.com/u/0/+AmirFahdHadjiUsop)
+- [Amir on YouTube](https://www.youtube.com/channel/UCqN11i1oj_30KpMfYpgI0HQ)
+- [Amir on LinkedIn](https://ph.linkedin.com/in/amir-fahd-hadji-usop-0a8b5499)
 
 ###Automatic Links
-https://www.facebook.com
-www.twitter.com
-instagram.com
+- https://www.facebook.com
+- www.twitter.com
+- instagram.com
 
 #Images
 
