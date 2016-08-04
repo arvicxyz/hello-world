@@ -47,14 +47,14 @@ Normal Text (Comparison)
 
 ###Nested Ordered List
 1. First
-  1. Star 1
-  2. Star 2
-  3. Star 3
+  1. First 1
+  2. First 2
+  3. First 3
 2. Second
 3. Third
-  1. Dash 1
-  2. Dash 2
-  3. Dash 3
+  1. Third 1
+  2. Third 2
+  3. Third 3
 
 ###Nested Unordered List
 * Star 1
@@ -70,19 +70,19 @@ Normal Text (Comparison)
   * Star 3.2
   * Star 3.3
 
-### Nested Combined List
-1. Another One
+###Nested Combined List
+1. First
   * Star 1
   * Star 2
   * Star 3
-2. Another Two
+2. Second
   - Dash 1
   - Dash 2
   - Dash 3
-3. Another Three
-  1. Number 1
-  * Star 4
-  - Dash 4
+3. Third
+  1. Third 1
+  * Star 1
+  - Dash 1
 4. Level 1
   1. Level 2
     1. Level 3
@@ -93,11 +93,12 @@ Normal Text (Comparison)
     - Dash 1
     1. Level 3
   * Star 1
-    * Star 2
-      * Star 3
-        * Star 4
-          * Star 5
+    * Star 1.1
+      * Star 1.1.1
+        * Star 1.1.1.1
+          * Star 1.1.1.1.1
   3. Level 2
+5. Last
 
 #Links
 
