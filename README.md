@@ -116,15 +116,20 @@ Normal Text (Comparison)
 
 #Images
 ###Xamarin
-![Xamarin Logo](https://www.xamarin.com/content/images/pages/branding/assets/xamarin-logo.png)
+[//]: # "![Xamarin Logo](https://www.xamarin.com/content/images/pages/branding/assets/xamarin-logo.png)"
+<img src="https://www.xamarin.com/content/images/pages/branding/assets/xamarin-logo.png" alt="Xamarin Logo" width="200"/>
 ###Android
-![Android Logo](http://www.logospike.com/wp-content/uploads/2015/10/Android_Logo_04.png)
+[//]: # "![Android Logo](http://www.logospike.com/wp-content/uploads/2015/10/Android_Logo_04.png)"
+<img src="http://www.logospike.com/wp-content/uploads/2015/10/Android_Logo_04.png" alt="Android Logo" width="200"/>
 ###iOS
-![iOS Logo](http://itrex.co.uk/img/partners/ios.png)
+[//]: # "![iOS Logo](http://itrex.co.uk/img/partners/ios.png)"
+<img src="http://itrex.co.uk/img/partners/ios.png" alt="iOS Logo" width="200"/>
 ###MonoGame
-![MonoGame Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/2000px-MonoGame_Logo.svg.png)
+[//]: # "![MonoGame Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/2000px-MonoGame_Logo.svg.png)"
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/2000px-MonoGame_Logo.svg.png" alt="MonoGame Logo" width="200"/>
 ###Unity
-![Unity Logo](http://www.socialcubix.com/wp-content/uploads/portfolio/derby/unity-logo.png)
+[//]: # "![Unity Logo](http://www.socialcubix.com/wp-content/uploads/portfolio/derby/unity-logo.png)"
+<img src="http://www.socialcubix.com/wp-content/uploads/portfolio/derby/unity-logo.png" alt="Unity Logo" width="200"/>
 
 #Quotes
 
