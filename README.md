@@ -141,14 +141,16 @@ Normal Text (Comparison)
 <br>- John Carmack
 
 #Code
-`Console.WriteLine("Hello World!");`
+`Console.WriteLine("Hello World!"); // Displays "Hello World!"`
 ```
+// Displays "Hello World!" ten times
 for (int i = 0; i < 10; i++)
 {
     Console.WriteLine("Hello World!");
 }
 ```
 ```csharp
+// Displays "Hello World!" ten times
 for (int i = 0; i < 10; i++)
 {
     Console.WriteLine("Hello World!");
