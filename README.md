@@ -141,6 +141,19 @@ Normal Text (Comparison)
 <br>- John Carmack
 
 #Code
+`Console.WriteLine("Hello World!");`
+```
+for (int i = 0; i < 10; i++)
+{
+    Console.WriteLine("Hello World!");
+}
+```
+```csharp
+for (int i = 0; i < 10; i++)
+{
+    Console.WriteLine("Hello World!");
+}
+```
 
 #Task Lists
 
