@@ -158,6 +158,9 @@ for (int i = 0; i < 10; i++)
 ```
 
 #Task Lists
+* [ ] Task 1
+* [ ] Task 2
+* [x] Task 3
 
 #Tables
 
