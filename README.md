@@ -163,6 +163,11 @@ for (int i = 0; i < 10; i++)
 * [x] Task 3
 
 #Tables
+Title | Downloads
+------|----------
+Cell Crush | 50,000
+Rocket Storm | 10,000
+Granny Walks Around the World | 10,00
 
 #Referencing
 
