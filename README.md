@@ -133,10 +133,10 @@ Normal Text (Comparison)
 
 #Quotes
 > Programming is not a zero-sum game. Teaching something to a fellow programmer doesn't take it away from you. I'm happy to share what I can, because I'm in it for the love of programming.
-> - John Carmack
-> Developing games for the PC and consoles is all about everything and the kitchen sink. In many ways, you don't have design decisions to make. You do it all. So I enjoy going back to making decisions about what's important as I'm working on a game. > - John Carmack
+<br>- John Carmack
+> Developing games for the PC and consoles is all about everything and the kitchen sink. In many ways, you don't have design decisions to make. You do it all. So I enjoy going back to making decisions about what's important as I'm working on a game. <br>- John Carmack
 > The cost of adding a feature isn't just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don't fight each other.
-> - John Carmack
+<br>- John Carmack
 
 #Code
 
