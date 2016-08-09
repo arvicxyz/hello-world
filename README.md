@@ -193,5 +193,5 @@ This are examples of emojis:
 - :basketball:
 - :car:
 - :aries:
-- /play loggins
+
 Complete list of emojis [here](http://www.webpagefx.com/tools/emoji-cheat-sheet/).
