@@ -109,10 +109,15 @@ Normal Text (Comparison)
 - [Amir on YouTube](https://www.youtube.com/channel/UCqN11i1oj_30KpMfYpgI0HQ)
 - [Amir on LinkedIn](https://ph.linkedin.com/in/amir-fahd-hadji-usop-0a8b5499)
 
+###HTML Tags
+- <a href="www.facebook.com" alt="Facebook">
+- <a href="www.twitter.com" alt="Twitter">
+- <a href="www.instagram.com" alt="Instagram">
+
 ###Automatic Links
-- https://www.facebook.com
-- www.twitter.com
-- instagram.com
+- https://www.google.com
+- www.youtube.com
+- linkedin.com
 
 #Images
 ###Xamarin
