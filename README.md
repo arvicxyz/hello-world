@@ -110,9 +110,9 @@ Normal Text (Comparison)
 - [Amir on LinkedIn](https://ph.linkedin.com/in/amir-fahd-hadji-usop-0a8b5499)
 
 ###HTML Tags
-- <a href="www.facebook.com" alt="Facebook">
-- <a href="www.twitter.com" alt="Twitter">
-- <a href="www.instagram.com" alt="Instagram">
+- <a href="www.facebook.com" alt="Facebook">Facebook</a>
+- <a href="www.twitter.com" alt="Twitter">Twitter</a>
+- <a href="www.instagram.com" alt="Instagram">Instagram</a>
 
 ###Automatic Links
 - https://www.google.com
