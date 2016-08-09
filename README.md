@@ -4,6 +4,10 @@ This repository is a collection of everything I learned about git version contro
 
 I have already learned the basics of git VCS using BitBucket on the go while doing my first real world professional development project. What I want now is to extend my knowledge and learn from the ground up to gain a solid foundation and later on learn the advance usage of git to contribute in open source projects. I am not expecting to learn everything, but I just want a strong technical grasp of the technology and track it with this repository. This repository could also be used by anyone as reference if they wish to.
 
+#Articles
+- [Atomic Commits](http://www.freshconsulting.com/atomic-commits/)
+- [Good Commit Messages](http://chris.beams.io/posts/git-commit/)
+
 #Markdown
 
 #Headers
