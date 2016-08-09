@@ -181,9 +181,17 @@ Rocket Storm | 10,000
 Granny Walks Around the World | 10,00
 
 #Referencing
+This is how you reference an issue #123
 
 #Mentioning
+This is how you mention a user @arvicxyz
 
 #Emojis
-
-#Others
+This are examples of emojis:
+- :smile:
+- :sunny:
+- :basketball:
+- :car:
+- :aries:
+- /play loggins
+Complete list of emojis [here](http://www.webpagefx.com/tools/emoji-cheat-sheet/).
