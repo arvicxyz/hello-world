@@ -174,9 +174,11 @@ for (int i = 0; i < 10; i++)
 * [ ] Task 5
 
 #Tables
+Game
+------|----------
 Title | Downloads
 ------|----------
-Cell Crush | 50,000
+Cell Crush | 100,000
 Rocket Storm | 10,000
 Granny Walks Around the World | 10,00
 
