@@ -5,6 +5,7 @@ This repository is a collection of everything I learned about git version contro
 I have already learned the basics of git VCS using BitBucket on the go while doing my first real world professional development project. What I want now is to extend my knowledge and learn from the ground up to gain a solid foundation and later on learn the advance usage of git to contribute in open source projects. I am not expecting to learn everything, but I just want a strong technical grasp of the technology and track it with this repository. This repository could also be used by anyone as reference if they wish to.
 
 #Articles
+
 - [Atomic Commits](http://www.freshconsulting.com/atomic-commits/)
 - [Good Commit Messages](http://chris.beams.io/posts/git-commit/)
 
@@ -21,6 +22,7 @@ I have already learned the basics of git VCS using BitBucket on the go while doi
 Normal Text (Comparison)
 
 #Emphasis
+
 * *Italic* (Star \*Italic\*)
 * **Bold** (Double Star \*\*Bold\*\*)
 * _Italic_ (Underscore \_Italic\_)
@@ -36,6 +38,7 @@ Normal Text (Comparison)
 * ~~Strikethrough~~ (Double Tilde \~\~Strikethrough\~\~)
 
 #Lists
+
 ###Ordered List
 1. One
 2. Two
@@ -105,6 +108,7 @@ Normal Text (Comparison)
 5. Last
 
 #Links
+
 ###Social Media
 - [Amir on Facebook](https://www.facebook.com/amirfahd72)
 - [Amir on Twitter](https://twitter.com/amirfahd72)
@@ -124,6 +128,7 @@ Normal Text (Comparison)
 - linkedin.com
 
 #Images
+
 ###Xamarin
 [//]: # "![Xamarin Logo](https://www.xamarin.com/content/images/pages/branding/assets/xamarin-logo.png)"
 <img src="https://www.xamarin.com/content/images/pages/branding/assets/xamarin-logo.png" alt="Xamarin Logo" width="200"/>
@@ -141,6 +146,7 @@ Normal Text (Comparison)
 <img src="http://www.socialcubix.com/wp-content/uploads/portfolio/derby/unity-logo.png" alt="Unity Logo" width="200"/>
 
 #Quotes
+
 > Programming is not a zero-sum game. Teaching something to a fellow programmer doesn't take it away from you. I'm happy to share what I can, because I'm in it for the love of programming.
 <br>- John Carmack
 
@@ -150,6 +156,7 @@ Normal Text (Comparison)
 <br>- John Carmack
 
 #Code
+
 `Console.WriteLine("Hello World!"); // Displays "Hello World!"`
 ```
 // Displays "Hello World!" ten times
@@ -167,6 +174,7 @@ for (int i = 0; i < 10; i++)
 ```
 
 #Task Lists
+
 * [ ] Task 1
 * [ ] Task 2
 * [x] Task 3
@@ -174,8 +182,7 @@ for (int i = 0; i < 10; i++)
 * [ ] Task 5
 
 #Tables
-Game
-------|----------
+
 Title | Downloads
 ------|----------
 Cell Crush | 100,000
@@ -183,12 +190,15 @@ Rocket Storm | 10,000
 Granny Walks Around the World | 10,00
 
 #Referencing
+
 This is how you reference an issue #123
 
 #Mentioning
+
 This is how you mention a user @arvicxyz
 
 #Emojis
+
 This are examples of emojis:
 - :smile:
 - :sunny:
