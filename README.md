@@ -1,27 +1,27 @@
-#Introduction
+# Introduction
 
 This repository is a collection of everything I learned about git version control system. I believe in learning by doing thus this serves as my personal practice and testing repo before applying it to my future projects. It also contains contents related to git with links and articles about how to become better at using git and best practices when using the git VCS.
 
 I have already learned the basics of git VCS using BitBucket on the go while doing my first real world professional development project. What I want now is to extend my knowledge and learn from the ground up to gain a solid foundation and later on learn the advance usage of git to contribute in open source projects. I am not expecting to learn everything, but I just want a strong technical grasp of the technology and track it with this repository. This repository could also be used by anyone as reference if they wish to.
 
-#Articles
+# Articles
 
 - [Atomic Commits](http://www.freshconsulting.com/atomic-commits/)
 - [Good Commit Messages](http://chris.beams.io/posts/git-commit/)
 
-#Markdown
+# Markdown
 
-#Headers
-#Header 1
-##Header 2
-###Header 3
-####Header 4
-#####Header 5
-######Header 6
-#######Header 7 (Header Test)
+# Headers
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+####### Header 7 (Header Test)
 Normal Text (Comparison)
 
-#Emphasis
+# Emphasis
 
 * *Italic* (Star \*Italic\*)
 * **Bold** (Double Star \*\*Bold\*\*)
@@ -37,14 +37,14 @@ Normal Text (Comparison)
 * __Bold _Italic___ (Nested Test 8 \_\_Bold \_Italic\_\_\_)
 * ~~Strikethrough~~ (Double Tilde \~\~Strikethrough\~\~)
 
-#Lists
+# Lists
 
-###Ordered List
+### Ordered List
 1. One
 2. Two
 3. Three
 
-###Unordered List
+### Unordered List
 * Java (Star)
 * C# (Star)
 * Swift (Star)
@@ -52,7 +52,7 @@ Normal Text (Comparison)
 - Python (Dash)
 - PHP (Dash)
 
-###Nested Ordered List
+### Nested Ordered List
 1. First
   1. First 1
   2. First 2
@@ -63,7 +63,7 @@ Normal Text (Comparison)
   2. Third 2
   3. Third 3
 
-###Nested Unordered List
+### Nested Unordered List
 * Star 1
   * Star 1.1
   * Star 1.2
@@ -77,7 +77,7 @@ Normal Text (Comparison)
   * Star 3.2
   * Star 3.3
 
-###Nested Combined List
+### Nested Combined List
 1. First
   * Star 1
   * Star 2
@@ -107,9 +107,9 @@ Normal Text (Comparison)
   3. Level 2
 5. Last
 
-#Links
+# Links
 
-###Social Media
+### Social Media
 - [Amir on Facebook](https://www.facebook.com/amirfahd72)
 - [Amir on Twitter](https://twitter.com/amirfahd72)
 - [Amir on Instagram](https://www.instagram.com/amirfahd72/)
@@ -117,35 +117,35 @@ Normal Text (Comparison)
 - [Amir on YouTube](https://www.youtube.com/channel/UCqN11i1oj_30KpMfYpgI0HQ)
 - [Amir on LinkedIn](https://ph.linkedin.com/in/amir-fahd-hadji-usop-0a8b5499)
 
-###HTML Tags
+### HTML Tags
 - <a href="https://www.facebook.com" alt="Facebook">Facebook</a>
 - <a href="https://www.twitter.com" alt="Twitter">Twitter</a>
 - <a href="https://www.instagram.com" alt="Instagram">Instagram</a>
 
-###Automatic Links
+### Automatic Links
 - https://www.google.com
 - www.youtube.com
 - linkedin.com
 
-#Images
+# Images
 
-###Xamarin
+### Xamarin
 [//]: # "![Xamarin Logo](https://www.xamarin.com/content/images/pages/branding/assets/xamarin-logo.png)"
 <img src="https://www.xamarin.com/content/images/pages/branding/assets/xamarin-logo.png" alt="Xamarin Logo" width="200"/>
-###Android
+### Android
 [//]: # "![Android Logo](http://www.logospike.com/wp-content/uploads/2015/10/Android_Logo_04.png)"
 <img src="http://www.logospike.com/wp-content/uploads/2015/10/Android_Logo_04.png" alt="Android Logo" width="200"/>
-###iOS
+### iOS
 [//]: # "![iOS Logo](http://itrex.co.uk/img/partners/ios.png)"
 <img src="http://itrex.co.uk/img/partners/ios.png" alt="iOS Logo" width="200"/>
-###MonoGame
+### MonoGame
 [//]: # "![MonoGame Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/2000px-MonoGame_Logo.svg.png)"
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/2000px-MonoGame_Logo.svg.png" alt="MonoGame Logo" width="200"/>
-###Unity
+### Unity
 [//]: # "![Unity Logo](http://www.socialcubix.com/wp-content/uploads/portfolio/derby/unity-logo.png)"
 <img src="http://www.socialcubix.com/wp-content/uploads/portfolio/derby/unity-logo.png" alt="Unity Logo" width="200"/>
 
-#Quotes
+# Quotes
 
 > Programming is not a zero-sum game. Teaching something to a fellow programmer doesn't take it away from you. I'm happy to share what I can, because I'm in it for the love of programming.
 <br>- John Carmack
@@ -155,7 +155,7 @@ Normal Text (Comparison)
 > The cost of adding a feature isn't just the time it takes to code it. The cost also includes the addition of an obstacle to future expansion. The trick is to pick the features that don't fight each other.
 <br>- John Carmack
 
-#Code
+# Code
 
 `Console.WriteLine("Hello World!"); // Displays "Hello World!"`
 ```
@@ -173,7 +173,7 @@ for (int i = 0; i < 10; i++)
 }
 ```
 
-#Task Lists
+# Task Lists
 
 * [ ] Task 1
 * [ ] Task 2
@@ -181,7 +181,7 @@ for (int i = 0; i < 10; i++)
 * [ ] Task 4
 * [ ] Task 5
 
-#Tables
+# Tables
 
 Title | Downloads
 ------|----------
@@ -189,15 +189,15 @@ Cell Crush | 100,000
 Rocket Storm | 10,000
 Granny Walks Around the World | 10,00
 
-#Referencing
+# Referencing
 
 This is how you reference an issue #123
 
-#Mentioning
+# Mentioning
 
 This is how you mention a user @arvicxyz
 
-#Emojis
+# Emojis
 
 This are examples of emojis:
 - :smile:
