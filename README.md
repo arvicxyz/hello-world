@@ -137,8 +137,8 @@ Normal Text (Comparison)
 [//]: # "![Android Logo](http://www.logospike.com/wp-content/uploads/2015/10/Android_Logo_04.png)"
 <img src="http://www.logospike.com/wp-content/uploads/2015/10/Android_Logo_04.png" alt="Android Logo" width="200"/>
 ### iOS
-[//]: # "![iOS Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0spVrPYy_mWneKQXzFliWGV2bg4Vfilj-8oLx6YDawowg__31)"
-<img src="http://itrex.co.uk/img/partners/ios.png" alt="iOS Logo" width="200"/>
+[//]: # "![iOS Logo](http://www.freeiconspng.com/uploads/os7-style-metro-ui-icon-19.png)"
+<img src="http://www.freeiconspng.com/uploads/os7-style-metro-ui-icon-19.png" alt="iOS Logo" width="200"/>
 ### MonoGame
 [//]: # "![MonoGame Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/2000px-MonoGame_Logo.svg.png)"
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/MonoGame_Logo.svg/2000px-MonoGame_Logo.svg.png" alt="MonoGame Logo" width="200"/>
