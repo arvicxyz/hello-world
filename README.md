@@ -19,6 +19,7 @@ I have already learned the basics of git VCS using BitBucket on the go while doi
 ##### Header 5
 ###### Header 6
 ####### Header 7 (Header Test)
+
 Normal Text (Comparison)
 
 # Emphasis
@@ -54,14 +55,14 @@ Normal Text (Comparison)
 
 ### Nested Ordered List
 1. First
-  1. First 1
-  2. First 2
-  3. First 3
+    1. First 1
+    2. First 2
+    3. First 3
 2. Second
 3. Third
-  1. Third 1
-  2. Third 2
-  3. Third 3
+    1. Third 1
+    2. Third 2
+    3. Third 3
 
 ### Nested Unordered List
 * Star 1
@@ -79,13 +80,13 @@ Normal Text (Comparison)
 
 ### Nested Combined List
 1. First
-  * Star 1
-  * Star 2
-  * Star 3
+    * Star 1
+    * Star 2
+    * Star 3
 2. Second
-  - Dash 1
-  - Dash 2
-  - Dash 3
+    - Dash 1
+    - Dash 2
+    - Dash 3
 3. Third
   1. Third 1
   * Star 1
