@@ -134,8 +134,8 @@ Normal Text (Comparison)
 [//]: # "![Xamarin Logo](https://www.xamarin.com/content/images/pages/branding/assets/xamarin-logo.png)"
 <img src="https://www.xamarin.com/content/images/pages/branding/assets/xamarin-logo.png" alt="Xamarin Logo" width="200"/>
 ### Android
-[//]: # "![Android Logo](http://www.logospike.com/wp-content/uploads/2015/10/Android_Logo_04.png)"
-<img src="http://www.logospike.com/wp-content/uploads/2015/10/Android_Logo_04.png" alt="Android Logo" width="200"/>
+[//]: # "![Android Logo](https://source.android.com/setup/images/Android_greenrobot.png)"
+<img src="https://source.android.com/setup/images/Android_greenrobot.png" alt="Android Logo" width="200"/>
 ### iOS
 [//]: # "![iOS Logo](http://www.freeiconspng.com/uploads/os7-style-metro-ui-icon-19.png)"
 <img src="http://www.freeiconspng.com/uploads/os7-style-metro-ui-icon-19.png" alt="iOS Logo" width="200"/>
